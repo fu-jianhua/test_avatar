@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "张三",
+      "email": "zhangsan@example.com",
+      "age": 28,
+      "is_active": true,
+      "hobbies": ["阅读", "游泳", "编程"],
+      "address": {
+        "city": "北京",
+        "street": "朝阳路123号",
+        "postal_code": "100000"
+      }
+    },
+    {
+      "id": 2,
+      "name": "李四",
+      "email": "lisi@example.com",
+      "age": 32,
+      "is_active": false,
+      "hobbies": ["音乐", "旅行"],
+      "address": {
+        "city": "上海",
+        "street": "南京路456号",
+        "postal_code": "200000"
+      }
+    },
+    {
+      "id": 3,
+      "name": "王五",
+      "email": "wangwu@example.com",
+      "age": 25,
+      "is_active": true,
+      "hobbies": ["篮球", "电影", "美食"],
+      "address": {
+        "city": "广州",
+        "street": "天河路789号",
+        "postal_code": "510000"
+      }
+    }
+  ],
+  "total_count": 3,
+  "last_updated": "2023-10-01T15:30:00Z"
+}
